@@ -1,0 +1,38 @@
+span{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: x-large;
+   }
+.d-flex {
+  display: inline-flex;
+  background-color: rgb(187, 210, 230);
+  color: white;
+}
+  .section{
+    background-color: rgb(1, 57, 87);
+    padding: 20px;
+    height: 100%;
+    color: white;
+  }
+  .underline{
+    width: 61px;
+    height: 3px;
+    background:#9a989c ;
+    border-radius: 9px;
+    
+}
+.d-flex1  {
+  /* background-color: rgb(20, 241, 112); */
+  color: white;
+  font-size: x-large;
+  height: 50px;
+  width: 100%;
+}
+
+.arrow {
+  margin-left: 95%;
+  padding: 0px;
+}
+.arrow img{
+  width:50px;
+}

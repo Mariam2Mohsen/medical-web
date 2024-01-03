@@ -1,0 +1,10 @@
+@media screen and (max-width: 750px) {
+    .col-sm-12{
+        flex-direction: column;
+    
+    }
+  }
+  .col-md-4{
+    width: 95%;
+    height: auto;
+    ;}

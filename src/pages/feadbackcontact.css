@@ -1,0 +1,23 @@
+label {
+    margin: 10px;
+  }
+  .container h1{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(4, 21, 255);
+
+  }
+.form-group{
+    font-size: x-large;
+    font-weight: bold;
+    border: 2px solid red;
+}
+.btn-primary {
+  font-size: x-large;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+ 
+
+  
+  

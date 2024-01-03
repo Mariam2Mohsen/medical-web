@@ -1,0 +1,43 @@
+.about {
+    background-color: rgb(5, 40, 75);
+	padding: 80px 0;
+    margin: 20px;
+	border-bottom-right-radius: 50%;
+    color: rgb(246, 246, 246);
+	border-top-left-radius: 40%;
+
+  }
+  /* .row{
+	background-color: rgb(5, 40, 75);
+  } */
+  .about h2 {
+	font-size: 36px;
+	margin-bottom: 40px;
+  }
+  
+  .about h3 {
+	font-size: 24px;
+	margin-bottom: 10px;
+  }
+  
+  .about p {
+	margin-bottom: 30px;
+	line-height: 1.6;
+  }
+  
+  .about a {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #333;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 4px;
+	transition: background-color 0.3s ease;
+  }
+  
+  .about a:hover {
+	background-color: #555;
+  }
+  
+
+   

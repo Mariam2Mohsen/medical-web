@@ -1,0 +1,60 @@
+#header_container{
+    background-image: url(https://getwallpapers.com/wallpaper/full/3/b/b/302012.jpg);
+
+  
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    width: 100%;
+
+}
+.header_img{
+    width: 40%;
+    height: 150px;
+    padding-top: 10px;
+    
+}
+/* .doctor_page{
+  background: url(https://img.freepik.com/free-vector/abstract-white-shapes-background_79603-1362.jpg?size=626&ext=jpg&ga=GA1.1.1151713492.1697357900&semt=ais) no-repeat center;
+  background-size: cover;
+} */
+.new_header{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+  justify-content: center;
+}
+/* .gallary {
+    
+    width: 400px;
+    height: auto;
+} */
+
+@media screen and (max-width: 750px) {
+    .col-sm-12{
+        flex-direction: column;
+    
+    }
+  
+  }
+
+
+
+.col-lg-4{
+    display: flex;
+}
+
+.btn btn-primary btn-lg{
+    justify-content: center; 
+    margin-left: 150px;
+    padding: 50px;
+}
+
+ .btn:hover{
+    transform: scale(1.2);}
+  /* .image{
+    padding-left: 500px;
+  } */
+

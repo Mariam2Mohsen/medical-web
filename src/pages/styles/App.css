@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    background: url(https://img.freepik.com/free-vector/abstract-white-shapes-background_79603-1362.jpg?size=626&ext=jpg&ga=GA1.1.1151713492.1697357900&semt=ais) no-repeat center;
+    background-size: cover;
+    height:700px;
+    border-radius: 30px;
+}
+
+.header {
+    background-color: #5a97d3;
+    color: rgb(216, 216, 216);
+    text-transform: uppercase;
+    margin-left: 10px;
+    /* border-radius: 30px; */
+    font-family:cursive;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}

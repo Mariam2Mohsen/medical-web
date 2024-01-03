@@ -1,0 +1,17 @@
+.special {
+  width: 100px;
+  margin-top: 10px;
+}
+.form-control {
+  width: 200px !important;  
+}
+.nav {
+  width: 100%;
+}
+.d-inline-flex.mx-auto .form-control {
+  margin-right: 10px;
+}
+
+.d-inline-flex.mx-auto {
+  justify-content: flex-end;
+}
